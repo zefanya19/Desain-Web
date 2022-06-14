@@ -1,0 +1,34 @@
+.satu{
+    margin: 10px 15px; padding: 5px 0; background: cyan; border-radius: 15px
+}
+.dua{
+    color: blue; text-align: center; font-family: sans-serif;
+}
+.tiga{
+    margin: 10px 15px; padding: 10px; background: #ecfa91; display: grid; 
+            grid-template-columns: repeat(12, 1fr); column-gap: 12px; border-radius: 15px;
+}
+.empat{
+    margin: 10px; padding: 0 10px; background: #90e07e; grid-column: 1 / span 3;
+}
+.lima{
+    list-style-type: none; padding: 10px;
+}
+li{
+    margin: 10px 0; background: green; padding: 10px;
+}
+.enam{
+    margin: 10px; padding: 10px; background: #90e07e; grid-column: 4 / span 9;
+}
+.tujuh{
+    display: block; margin: 0 auto; width: 30%;
+}
+p{
+    "color: #0b872c;"
+}
+.delapan{
+    margin: 10px 15px; padding: 5px 0; background: #e3b059; border-radius: 15px;
+}
+.sembilan{
+    color: #b03f25; text-align: center; font-family: monospace;
+}
